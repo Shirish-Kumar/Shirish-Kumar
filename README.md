@@ -29,6 +29,6 @@ I am an Electrical Engineer who is interested in automation and analytics.
 
 ### Let's Connect 🌐
 
-I'm always open to collaboration and exploring new opportunities. Feel free to reach out to me if you're interested in working together or have any questions.
+I'm always open to collaboration and exploring new opportunities. Feel free to reach out to me by [email](shirishkumar226@gmail.com) if you're interested in working together or have any questions.
 
 Thanks for visiting my GitHub profile! 🚀
