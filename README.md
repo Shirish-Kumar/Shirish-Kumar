@@ -1,6 +1,6 @@
 ## Hello, I'm Shirish 👋
 
-I am an Electrical Engineer who is interested in automation and analytics. Contact me through [Email](shirishkumar226@gmail.com) and [linkedin](https://www.linkedin.com/in/shirish-kumar-/).
+I am an Electrical Engineer who is interested in automation and analytics. Feel free to reach out to me by [Email](shirishkumar226@gmail.com) and [Linkedin](https://www.linkedin.com/in/shirish-kumar-/).
 
 ### About Me
 
@@ -29,6 +29,6 @@ I am an Electrical Engineer who is interested in automation and analytics. Conta
 
 ### Let's Connect 🌐
 
-I'm always open to collaboration and exploring new opportunities. Feel free to reach out to me by [email](shirishkumar226@gmail.com) if you're interested in working together or have any questions.
+I'm always open to collaboration and exploring new opportunities. Feel free to reach out to me by [Email](shirishkumar226@gmail.com) and [Linkedin](https://www.linkedin.com/in/shirish-kumar-/), if you're interested in working together or have any questions.
 
 Thanks for visiting my GitHub profile! 🚀
