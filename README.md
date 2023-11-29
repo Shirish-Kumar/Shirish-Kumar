@@ -1,6 +1,6 @@
 ## Hello, I'm Shirish 👋
 
-I am an Electrical Engineer who is interested in automation and analytics.
+I am an Electrical Engineer who is interested in automation and analytics. Contact me through [Email](shirishkumar226@gmail.com) and [linkedin](https://www.linkedin.com/in/shirish-kumar-/).
 
 ### About Me
 
